@@ -5,4 +5,4 @@
 
 #Heading-3
 
-Added for conflict with merge in local
+Added for conflict with merge in remote
